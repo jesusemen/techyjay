@@ -1,0 +1,50 @@
+body {
+  background-color:#ADD8E6;
+
+}
+
+#logo {
+  margin-left: 590px;
+  margin-top: 28px;
+  color:white;
+}
+
+#piggy {
+  margin-left: 465px;
+  margin-top:80px;
+  background-color: white;
+  width: 470px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 10px;
+  margin-bottom: 50px;
+
+}
+
+.box {
+  width: 230px;
+  height: 30px;
+  border-radius: 2px;
+
+}
+
+#stitle {
+  margin-top: 2px;
+}
+.button {
+  width: 250px;
+  height: 40px;
+  color:white;
+  background-color: darkblue;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 25px;
+
+}
+
+#login {
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
